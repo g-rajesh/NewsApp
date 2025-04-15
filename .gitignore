@@ -1,0 +1,62 @@
+# Xcode files
+*.xcworkspace/
+*.xcuserdata/
+*.xcdebugger/
+*.xccheckout/
+*.moved-aside/
+*.xcscmblueprint
+*.xcodeproj/**/xcuserdata/
+*.xcodeproj/**/xcdebugger/
+
+# Derived Data
+DerivedData/
+.build/
+
+# Swift Package Manager
+Packages/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+Carthage/Checkouts/
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Build artifacts
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Simulator files
+.DS_Store
+*.swp
+*.swo
+*.lock
+*.mode1v3
+*.mode2v3
+*.pbxuser
+
+# Ignore environment settings
+.env
+.env.local
+
+# Ignore Xcode Playgrounds
+playground.xcworkspace/
+
+# Ignore SwiftLint cache
+.swiftlint.yml
+.swiftlint_cache/
+
+# Ignore Firebase Crashlytics
+firebase-debug.log
+GoogleService-Info.plist

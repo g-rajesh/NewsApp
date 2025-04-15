@@ -1,0 +1,16 @@
+/* 
+  Register.strings
+  NewsApp-main
+
+  Created by Rajesh Gunasekar on 30/03/25.
+  
+*/
+
+"title" = "Create Account";
+"description" = "Welcome to the News App, please enter the information below to create an account for you";
+"fullname_placeholder" = "Full Name";
+"email_placeholder" = "Email";
+"password_placeholder" = "Password";
+"register_cta" = "Register";
+"has_account_text" = "Already have an account?";
+"login_cta" = "Login";

@@ -1,0 +1,15 @@
+/* 
+  Login.strings
+  NewsApp-main
+
+  Created by Rajesh Gunasekar on 30/03/25.
+  
+*/
+
+"title" = "Welcome";
+"description" = "Please enter the information below to login";
+"email_placeholder" = "Email";
+"password_placeholder" = "Password";
+"login_cta" = "Login";
+"new_user_text" = "New user?";
+"register_cta" = "Create Account";

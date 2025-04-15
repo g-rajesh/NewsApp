@@ -1,0 +1,18 @@
+/* 
+  Onboarding.strings
+  NewsApp-main
+
+  Created by Rajesh Gunasekar on 25/03/25.
+  
+*/
+
+"onboarding_title1" = "Welcome";
+"onboarding_title2" = "Explore Categories";
+"onboarding_title3" = "Save Your Favorite News";
+
+"onboarding_desc1" = "Take your first step to get closer to the news with us. Easily access the latest news and updates.";
+"onboarding_desc2" = "Customize your news by selecting categories that match your interests. Discover sports, technology, politics, and more.";
+"onboarding_desc3" = "Add the news you want to follow closely to your favorites. Access them quickly whenever you want.";
+
+"next_button_title" = "Next";
+"get_started_button_title" = "Get Started";
